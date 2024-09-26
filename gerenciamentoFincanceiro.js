@@ -38,3 +38,5 @@ const contas = new CicloFinanceiro(7, 2024)
 contas.addLancamentos(salario, contaDeLuz, contaDeAgua, contaDeInternet, faturaDoCartao)
 
 console.log('Valor restante:', contas.sumario())
+
+// test
