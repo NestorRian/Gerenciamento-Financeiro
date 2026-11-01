@@ -14,12 +14,9 @@ Se você é um entusiasta da programação e finanças como eu, experimente este
 
 
 
-https://github.com/NestorRian/Gerenciamento-Financeiro/assets/115047967/43043974-2cea-4be0-915d-e21bbf53c5e7
 
 
 
 
 
 
-
-#Finanças #JavaScript #GerenciamentoFinanceiro #ControleFinanceiro #DesenvolvimentoWeb
